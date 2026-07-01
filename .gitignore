@@ -1,0 +1,18 @@
+node_modules
+.next
+.vercel
+*.log
+.DS_Store
+tsconfig.tsbuildinfo
+.env*
+
+# Python scratch
+__pycache__/
+scripts/*.patch.json
+
+# Large, regenerable Hebrew data — NOT committed (kept lean).
+#   data/source/*.xml  = raw upstream OSHB/WLC (re-fetch: curl raw.githubusercontent.com/openscriptures/morphhb/master/wlc/<Osis>.xml)
+#   data/hebrew/*.json = derived layer (regenerate: pnpm ingest <Osis>:<slug>:<Name>)
+# The authoritative Hebrew that ships lives in data/<slug>.ts (committed); these are only inputs to verify_terms.
+data/source/
+data/hebrew/
