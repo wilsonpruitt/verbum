@@ -1,0 +1,483 @@
+{
+  "product": "Verbum",
+  "base": "https://verbum.wrootpress.com",
+  "note": "Wordplay index keyed by OSIS refKey. Curated, not complete — presence here means a play exists for that reference. Use start/end to test overlap with a passage range.",
+  "count": 19,
+  "plays": [
+    {
+      "edition": "genesis",
+      "refKey": "Gen.1.2",
+      "refDisplay": "Genesis 1:2",
+      "book": "Genesis",
+      "kind": "assonance",
+      "kindLabel": "assonance",
+      "heading": "Formless and void",
+      "contested": false,
+      "anchor": "gen-1-2",
+      "path": "/genesis#gen-1-2",
+      "url": "https://verbum.wrootpress.com/genesis#gen-1-2",
+      "start": {
+        "osis": "Gen.1.2",
+        "book": "Gen",
+        "chapter": 1,
+        "verse": 2
+      },
+      "end": {
+        "osis": "Gen.1.2",
+        "book": "Gen",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.2.7",
+      "refDisplay": "Genesis 2:7",
+      "book": "Genesis",
+      "kind": "name",
+      "kindLabel": "name",
+      "heading": "The human and the humus",
+      "contested": false,
+      "anchor": "gen-2-7",
+      "path": "/genesis#gen-2-7",
+      "url": "https://verbum.wrootpress.com/genesis#gen-2-7",
+      "start": {
+        "osis": "Gen.2.7",
+        "book": "Gen",
+        "chapter": 2,
+        "verse": 7
+      },
+      "end": {
+        "osis": "Gen.2.7",
+        "book": "Gen",
+        "chapter": 2,
+        "verse": 7
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.2.23",
+      "refDisplay": "Genesis 2:23",
+      "book": "Genesis",
+      "kind": "name",
+      "kindLabel": "name",
+      "heading": "Woman out of man",
+      "contested": true,
+      "anchor": "gen-2-23",
+      "path": "/genesis#gen-2-23",
+      "url": "https://verbum.wrootpress.com/genesis#gen-2-23",
+      "start": {
+        "osis": "Gen.2.23",
+        "book": "Gen",
+        "chapter": 2,
+        "verse": 23
+      },
+      "end": {
+        "osis": "Gen.2.23",
+        "book": "Gen",
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.2.25-Gen.3.1",
+      "refDisplay": "Genesis 2:25–3:1",
+      "book": "Genesis",
+      "kind": "pun",
+      "kindLabel": "pun",
+      "heading": "Naked and shrewd",
+      "contested": false,
+      "anchor": "gen-2-25-gen-3-1",
+      "path": "/genesis#gen-2-25-gen-3-1",
+      "url": "https://verbum.wrootpress.com/genesis#gen-2-25-gen-3-1",
+      "start": {
+        "osis": "Gen.2.25",
+        "book": "Gen",
+        "chapter": 2,
+        "verse": 25
+      },
+      "end": {
+        "osis": "Gen.3.1",
+        "book": "Gen",
+        "chapter": 3,
+        "verse": 1
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.3.20",
+      "refDisplay": "Genesis 3:20",
+      "book": "Genesis",
+      "kind": "name",
+      "kindLabel": "name",
+      "heading": "Eve, the living",
+      "contested": false,
+      "anchor": "gen-3-20",
+      "path": "/genesis#gen-3-20",
+      "url": "https://verbum.wrootpress.com/genesis#gen-3-20",
+      "start": {
+        "osis": "Gen.3.20",
+        "book": "Gen",
+        "chapter": 3,
+        "verse": 20
+      },
+      "end": {
+        "osis": "Gen.3.20",
+        "book": "Gen",
+        "chapter": 3,
+        "verse": 20
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.4.1",
+      "refDisplay": "Genesis 4:1",
+      "book": "Genesis",
+      "kind": "name",
+      "kindLabel": "name",
+      "heading": "Cain, the gotten one",
+      "contested": false,
+      "anchor": "gen-4-1",
+      "path": "/genesis#gen-4-1",
+      "url": "https://verbum.wrootpress.com/genesis#gen-4-1",
+      "start": {
+        "osis": "Gen.4.1",
+        "book": "Gen",
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "osis": "Gen.4.1",
+        "book": "Gen",
+        "chapter": 4,
+        "verse": 1
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.5.29",
+      "refDisplay": "Genesis 5:29",
+      "book": "Genesis",
+      "kind": "name",
+      "kindLabel": "name",
+      "heading": "Noah, rest or comfort?",
+      "contested": true,
+      "anchor": "gen-5-29",
+      "path": "/genesis#gen-5-29",
+      "url": "https://verbum.wrootpress.com/genesis#gen-5-29",
+      "start": {
+        "osis": "Gen.5.29",
+        "book": "Gen",
+        "chapter": 5,
+        "verse": 29
+      },
+      "end": {
+        "osis": "Gen.5.29",
+        "book": "Gen",
+        "chapter": 5,
+        "verse": 29
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.11.9",
+      "refDisplay": "Genesis 11:9",
+      "book": "Genesis",
+      "kind": "pun",
+      "kindLabel": "pun",
+      "heading": "Babel that babbles",
+      "contested": false,
+      "anchor": "gen-11-9",
+      "path": "/genesis#gen-11-9",
+      "url": "https://verbum.wrootpress.com/genesis#gen-11-9",
+      "start": {
+        "osis": "Gen.11.9",
+        "book": "Gen",
+        "chapter": 11,
+        "verse": 9
+      },
+      "end": {
+        "osis": "Gen.11.9",
+        "book": "Gen",
+        "chapter": 11,
+        "verse": 9
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.21.6",
+      "refDisplay": "Genesis 21:6",
+      "book": "Genesis",
+      "kind": "name",
+      "kindLabel": "name",
+      "heading": "Isaac, laughter",
+      "contested": false,
+      "anchor": "gen-21-6",
+      "path": "/genesis#gen-21-6",
+      "url": "https://verbum.wrootpress.com/genesis#gen-21-6",
+      "start": {
+        "osis": "Gen.21.6",
+        "book": "Gen",
+        "chapter": 21,
+        "verse": 6
+      },
+      "end": {
+        "osis": "Gen.21.6",
+        "book": "Gen",
+        "chapter": 21,
+        "verse": 6
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.25.30",
+      "refDisplay": "Genesis 25:30",
+      "book": "Genesis",
+      "kind": "name",
+      "kindLabel": "name",
+      "heading": "Edom, the red",
+      "contested": false,
+      "anchor": "gen-25-30",
+      "path": "/genesis#gen-25-30",
+      "url": "https://verbum.wrootpress.com/genesis#gen-25-30",
+      "start": {
+        "osis": "Gen.25.30",
+        "book": "Gen",
+        "chapter": 25,
+        "verse": 30
+      },
+      "end": {
+        "osis": "Gen.25.30",
+        "book": "Gen",
+        "chapter": 25,
+        "verse": 30
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.27.36",
+      "refDisplay": "Genesis 27:36",
+      "book": "Genesis",
+      "kind": "pun",
+      "kindLabel": "pun",
+      "heading": "Jacob, heel and cheat",
+      "contested": false,
+      "anchor": "gen-27-36",
+      "path": "/genesis#gen-27-36",
+      "url": "https://verbum.wrootpress.com/genesis#gen-27-36",
+      "start": {
+        "osis": "Gen.27.36",
+        "book": "Gen",
+        "chapter": 27,
+        "verse": 36
+      },
+      "end": {
+        "osis": "Gen.27.36",
+        "book": "Gen",
+        "chapter": 27,
+        "verse": 36
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.10.25",
+      "refDisplay": "Genesis 10:25",
+      "book": "Genesis",
+      "kind": "name",
+      "kindLabel": "name",
+      "heading": "Peleg, division",
+      "contested": false,
+      "anchor": "gen-10-25",
+      "path": "/genesis#gen-10-25",
+      "url": "https://verbum.wrootpress.com/genesis#gen-10-25",
+      "start": {
+        "osis": "Gen.10.25",
+        "book": "Gen",
+        "chapter": 10,
+        "verse": 25
+      },
+      "end": {
+        "osis": "Gen.10.25",
+        "book": "Gen",
+        "chapter": 10,
+        "verse": 25
+      }
+    },
+    {
+      "edition": "genesis",
+      "refKey": "Gen.11.3",
+      "refDisplay": "Genesis 11:3",
+      "book": "Genesis",
+      "kind": "alliteration",
+      "kindLabel": "alliteration",
+      "heading": "Let us brick bricks",
+      "contested": false,
+      "anchor": "gen-11-3",
+      "path": "/genesis#gen-11-3",
+      "url": "https://verbum.wrootpress.com/genesis#gen-11-3",
+      "start": {
+        "osis": "Gen.11.3",
+        "book": "Gen",
+        "chapter": 11,
+        "verse": 3
+      },
+      "end": {
+        "osis": "Gen.11.3",
+        "book": "Gen",
+        "chapter": 11,
+        "verse": 3
+      }
+    },
+    {
+      "edition": "amos",
+      "refKey": "Amos.3.8",
+      "refDisplay": "Amos 3:8",
+      "book": "Amos",
+      "kind": "onomatopoeia",
+      "kindLabel": "sound-picture",
+      "heading": "The roar and the fear",
+      "contested": false,
+      "anchor": "amos-3-8",
+      "path": "/amos#amos-3-8",
+      "url": "https://verbum.wrootpress.com/amos#amos-3-8",
+      "start": {
+        "osis": "Amos.3.8",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 8
+      },
+      "end": {
+        "osis": "Amos.3.8",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "edition": "amos",
+      "refKey": "Amos.2.13",
+      "refDisplay": "Amos 2:13",
+      "book": "Amos",
+      "kind": "root",
+      "kindLabel": "root-play",
+      "heading": "I press as it presses",
+      "contested": true,
+      "anchor": "amos-2-13",
+      "path": "/amos#amos-2-13",
+      "url": "https://verbum.wrootpress.com/amos#amos-2-13",
+      "start": {
+        "osis": "Amos.2.13",
+        "book": "Amos",
+        "chapter": 2,
+        "verse": 13
+      },
+      "end": {
+        "osis": "Amos.2.13",
+        "book": "Amos",
+        "chapter": 2,
+        "verse": 13
+      }
+    },
+    {
+      "edition": "amos",
+      "refKey": "Amos.5.5",
+      "refDisplay": "Amos 5:5",
+      "book": "Amos",
+      "kind": "pun",
+      "kindLabel": "pun",
+      "heading": "Gilgal into exile, Bethel into nothing",
+      "contested": false,
+      "anchor": "amos-5-5",
+      "path": "/amos#amos-5-5",
+      "url": "https://verbum.wrootpress.com/amos#amos-5-5",
+      "start": {
+        "osis": "Amos.5.5",
+        "book": "Amos",
+        "chapter": 5,
+        "verse": 5
+      },
+      "end": {
+        "osis": "Amos.5.5",
+        "book": "Amos",
+        "chapter": 5,
+        "verse": 5
+      }
+    },
+    {
+      "edition": "amos",
+      "refKey": "Amos.6.12",
+      "refDisplay": "Amos 6:12",
+      "book": "Amos",
+      "kind": "pun",
+      "kindLabel": "pun",
+      "heading": "Do oxen plow the sea?",
+      "contested": true,
+      "anchor": "amos-6-12",
+      "path": "/amos#amos-6-12",
+      "url": "https://verbum.wrootpress.com/amos#amos-6-12",
+      "start": {
+        "osis": "Amos.6.12",
+        "book": "Amos",
+        "chapter": 6,
+        "verse": 12
+      },
+      "end": {
+        "osis": "Amos.6.12",
+        "book": "Amos",
+        "chapter": 6,
+        "verse": 12
+      }
+    },
+    {
+      "edition": "amos",
+      "refKey": "Amos.7.7-Amos.7.8",
+      "refDisplay": "Amos 7:7–8",
+      "book": "Amos",
+      "kind": "pun",
+      "kindLabel": "pun",
+      "heading": "The word on the wall",
+      "contested": true,
+      "anchor": "amos-7-7-amos-7-8",
+      "path": "/amos#amos-7-7-amos-7-8",
+      "url": "https://verbum.wrootpress.com/amos#amos-7-7-amos-7-8",
+      "start": {
+        "osis": "Amos.7.7",
+        "book": "Amos",
+        "chapter": 7,
+        "verse": 7
+      },
+      "end": {
+        "osis": "Amos.7.8",
+        "book": "Amos",
+        "chapter": 7,
+        "verse": 8
+      }
+    },
+    {
+      "edition": "amos",
+      "refKey": "Amos.8.1-Amos.8.2",
+      "refDisplay": "Amos 8:1–2",
+      "book": "Amos",
+      "kind": "homophone",
+      "kindLabel": "double sense",
+      "heading": "Summer fruit, the end",
+      "contested": false,
+      "anchor": "amos-8-1-amos-8-2",
+      "path": "/amos#amos-8-1-amos-8-2",
+      "url": "https://verbum.wrootpress.com/amos#amos-8-1-amos-8-2",
+      "start": {
+        "osis": "Amos.8.1",
+        "book": "Amos",
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "osis": "Amos.8.2",
+        "book": "Amos",
+        "chapter": 8,
+        "verse": 2
+      }
+    }
+  ]
+}
